@@ -4,8 +4,13 @@
 from enum import Enum
 from os import environ
 import os
+from setuptools import setup, find_packages
 
-
+setup(
+    name="myproject",
+    version="0.1",
+    packages=find_packages()
+)
 # from
 
 class gluDebugMode(Enum):

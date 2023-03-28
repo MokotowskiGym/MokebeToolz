@@ -1,0 +1,10 @@
+README.rst
+pyproject.toml
+setup.py
+mkbtoolz.egg-info/PKG-INFO
+mkbtoolz.egg-info/SOURCES.txt
+mkbtoolz.egg-info/dependency_links.txt
+mkbtoolz.egg-info/entry_points.txt
+mkbtoolz.egg-info/not-zip-safe
+mkbtoolz.egg-info/requires.txt
+mkbtoolz.egg-info/top_level.txt
