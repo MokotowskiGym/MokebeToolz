@@ -10,7 +10,7 @@ from enum import Enum
 from datetime import date, time
 from dataclasses import dataclass
 import typing as ty
-import mokebeCsvProcessing.settingsGeneral as s
+# import mokebeCsvProcessing.settingsGeneral as s
 import ctypes as ct
 import tkinter as tk
 from tkinter import filedialog
